@@ -1,6 +1,6 @@
-**Behind the Facade, a Building Divided**
+**NYT December 8th 1992**
 
-NYT December 8th 1992
+**Behind the Facade, a Building Divided**
 ===
 For 108 years, the four-story Montgomery Block has been an ample
 presence on East 86th Street, as well as an architectural symbol of 
