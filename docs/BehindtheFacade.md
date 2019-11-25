@@ -92,4 +92,3 @@ offer, who knows? They haven't been your typical slumlords, in all
 fairness.
 
 "It's just that this is coming very suddenly and very surprisingly."
-![Yorkville Buildings](../images/Yorkville Buildings.jpg)
