@@ -47,7 +47,7 @@ padding : 0;
 position : absolute;
 top : 343px;
 margin-left : 529px;
-color : #2B0101;
+color : #700d0d;
 width : 175px;
 }
 footer {
@@ -101,9 +101,9 @@ background : url(hdResc.gif) no-repeat;
 margin-top : 15px;
 }
 a {
-color : #683A33;
+color : #bf2bc2;
 text-decoration : none;
-border-bottom : 1px dotted #683A33;
+border-bottom : 1px dotted #bf2bc2;
 }
 a:hover, a:active {
 border-bottom : 1px solid #512720;
